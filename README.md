@@ -13,10 +13,13 @@ Projeto próprio, criado em Agosto de 2020, derivado dos ensinamentos obtidos no
 A motivação veio do filme Iron Man 1. Um filme que aborda as invenções do fictício inventor Tony Stark com bastante automação, computação, robótica e eletrônica.
 
 # Box
-<img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/images/ironman_box.PNG">
+<img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/Images/ironman_box.PNG">
+
+# Vídeo Youtube
+
 
 # Circuito
-<img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/images/CircuitBoardTinkerCad.PNG">
+<img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/Images/CircuitBoardTinkerCad.PNG">
 
 # Dependencies
 Para rodar no Arduino este projeto precisa que seja instalado:
