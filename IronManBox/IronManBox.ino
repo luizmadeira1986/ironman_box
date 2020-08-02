@@ -74,7 +74,7 @@ void loop()
   delay(60000); // 60 seconds
   analogWrite(9,0);  // Mask off
   analogWrite(11,0); // Reactor ARC off
-  delay(180000); // 30 minutes
+  delay(1800000); // 30 minutes
 
   //Print again on CrystalLiquid the temperature and umidity 
   lcd.backlight();
