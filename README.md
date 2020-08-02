@@ -9,3 +9,6 @@ Mini IronMan com Arduino, tela LCD 7cm, capacete do Homem de Ferro, reator ARC, 
 
 <img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/ironman_box.PNG">
 
+# Circuito
+
+<img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/CircuitBoardTinkerCad.PNG">
