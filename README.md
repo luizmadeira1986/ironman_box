@@ -3,7 +3,8 @@
 Mini IronMan com Arduino:
 - Arduino UNO
 - Crystal Liquid
-- Sensor de temperatura e umidade
+- Sensor de temperatura e umidade DHT22
+- Sensor de pressão e temperatura BMP280
 - Capacete Homem de Ferro
 - Reator ARC Homem de Ferro
 - Caixa Vermelha de Plástico
@@ -16,7 +17,7 @@ A motivação veio do filme Iron Man 1. Um filme que aborda as invenções do fi
 <img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/Images/ironman_box.PNG">
 
 # Vídeo Youtube
-https://youtu.be/yXBNsNiBRss
+Indisponível
 
 # Circuito
 <img src="https://raw.githubusercontent.com/luizmadeira1986/ironman_box/master/Images/CircuitBoardTinkerCad.PNG">
@@ -33,4 +34,7 @@ DHT22
 Para instalar basta ir em:
 Arduino Ide>Ferramentas>Gerenciar Bibliotecas...>Search:"DHT22">Instalar tudo 
 
-
+BMP280
+Arduino Ide>Sketch>Incluir Biblioteca>Adicionar biblioteca .ZIP>"Selecionar o arquivo que segue com este código">
+Dependencies/Adafruit_BMP280_Library-master.zip
+Dependecies/Adafruit_Sensor-master.zip
